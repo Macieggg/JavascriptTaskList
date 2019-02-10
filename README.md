@@ -1,2 +1,2 @@
-# Javascript_Task_List
-🎓 Ideas for Javascript apps.
+<h1 align="center">👨‍💻 Javascript Task List 👩‍💻</h1>
+<p align="center">🎓 Ideas for Javascript apps 🎓</p>
