@@ -2,7 +2,8 @@
 <p align="center">🎓 Ideas for Javascript apps 🎓</p>
 
 # **List:**  
-* ### **Todolist**<p>Todolist with localstorage, and search option.</p>  
+* ### **Todolist**  
+  <p>Todolist with localstorage, and search option.</p>  
 * ### **Quiz**  <p>Quiz app with points counter using localstorage/Cookies.</p> 
 * ### **Atari Game**  <p>Atari Games (There are many of them) - With canvas.</p>  
 * ### **Pizza App**  <p>Pizza menu website, with sorting (Type of food).</p>  
